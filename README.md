@@ -4,6 +4,7 @@ DESIGN PATTERNS are typical solutions to commonly occuring problems/blueprint.
 
 
 #Sections that are usually present in a pattern desciption:
+
 -INTENT-of the pattern briefly descibes both the problem and the solution.
 
 -MOTIVATION- further explains the problem and the solution the pattern makes possible.
