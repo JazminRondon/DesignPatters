@@ -32,6 +32,8 @@ DESIGN PATTERNS are typical solutions to commonly occuring problems/blueprint.
 
 
 
+
+
 #ADAPTER
 
 Adapter is also known as: Wrapper
