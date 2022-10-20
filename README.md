@@ -29,3 +29,13 @@ DESIGN PATTERNS are typical solutions to commonly occuring problems/blueprint.
 2-Structural Pattern-explains how to assesmble objects and classes into larger structures while keeping these structures flexible and efficiant 
 
 3-Behavioral Pattern-take care of effective communication and the assignment of responsibilities between objects.
+
+
+
+#ADAPTER
+
+Adapter is also known as: Wrapper
+
+Adapter is a STRUCTUAL design patters that allows objects with incompatible interfaces to collaborat. 
+
+This is a special object that converts the interface of one object to another object so it can understand it. 
